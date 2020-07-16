@@ -25,7 +25,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: bitc0m/test.github.io
+          publish_branch: gh-pages
           cname: test.tzchat.org
           publish_dir: ./public
           #   keep_files: true
