@@ -1,0 +1,6 @@
+baseURL="https://staging.tzchat.org"
+languageCode = "en-us"
+title = "TzChat"
+theme = "ananke"
+sectionPagesMenu = "main"
+
